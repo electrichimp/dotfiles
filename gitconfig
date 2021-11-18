@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jumagom@gmail.com
+	name = JUAN MANUEL GOMEZ
